@@ -17,19 +17,19 @@ const About = () => {
             <img width="100" height="100" src="https://img.icons8.com/ios/100/76ed2c/unity.png" alt="unity"/>
             </div>
             <div className='rounded-full items-center justify-center flex'>
-                <img src="../src/assets/blender.svg"/>
+                <img src="./assets/blender.svg"/>
             </div>
             <div className='rounded-full items-center justify-center flex'>
-                <img src="../src/assets/c++.svg"/>
+                <img src="./assets/c++.svg"/>
             </div>
             <div className='rounded-full items-center justify-center flex'>
-                <img src="./src/assets/c-sharp.svg"/>
+                <img src="./assets/c-sharp.svg"/>
             </div>
             <div className='rounded-full items-center justify-center flex'>
-                <img src="./src/assets/java.svg"/>
+                <img src="./assets/java.svg"/>
             </div>
             <div className='rounded-full items-center justify-center flex'>
-                <img src="./src/assets/python.svg"/>
+                <img src="./assets/python.svg"/>
             </div>
         </div>
 
