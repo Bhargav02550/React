@@ -14,22 +14,22 @@ const About = () => {
         </div>
         <div className='text-white bg-black p-4 md:ml-20 md:mt-0 mt-10 rounded-2xl w-[100%] grid grid-cols-4 content-center gap-4'>
             <div className='rounded-full items-center justify-center flex'>
-                <img src="/public/unity.svg"/>
+                <img src="/src/assets/unity.svg"/>
             </div>
             <div className='rounded-full items-center justify-center flex'>
-                <img src="/public/blender.svg"/>
+                <img src="/src/assets/blender.svg"/>
             </div>
             <div className='rounded-full items-center justify-center flex'>
-                <img src="/public/c++.svg"/>
+                <img src="/src/assets/c++.svg"/>
             </div>
             <div className='rounded-full items-center justify-center flex'>
-                <img src="/public/c-sharp.svg"/>
+                <img src="/src/assets/c-sharp.svg"/>
             </div>
             <div className='rounded-full items-center justify-center flex'>
-                <img src="/public/java.svg"/>
+                <img src="/src/assets/java.svg"/>
             </div>
             <div className='rounded-full items-center justify-center flex'>
-                <img src="/public/python.svg"/>
+                <img src="/src/assets/python.svg"/>
             </div>
         </div>
 
