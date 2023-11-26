@@ -5,6 +5,10 @@ export default {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+      sqr:["Bebas Neue","sans-serif"],
+      pop:['Poppins', 'sans-serif'],
+    },
   },
   plugins: [],
 }
