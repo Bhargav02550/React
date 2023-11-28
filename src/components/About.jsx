@@ -14,7 +14,7 @@ const About = () => {
         </div>
         <div className='text-white bg-black p-4 md:ml-20 md:mt-0 mt-10 rounded-2xl w-[100%] grid grid-cols-4 content-center gap-4'>
             <div className='rounded-full items-center justify-center flex'>
-            <img width="100" height="100" src="https://img.icons8.com/ios/100/76ed2c/unity.png" alt="unity"/>
+            <img src="./src/assets/unity.png" alt="unity"/>
             </div>
             <div className='rounded-full items-center justify-center flex'>
                 <img src="./assets/blender.svg"/>
