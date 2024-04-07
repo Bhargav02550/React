@@ -4,6 +4,7 @@ import { AiFillAndroid } from 'react-icons/ai';
 const About = () => {
   return (
     <div className="font-pop m-auto flex flex-col items-center mt-8 h-screen md:pl-20">
+      <h2>Hello</h2>
       <h1 className="sm:text-5xl text-3xl mb-4">About Me</h1>
       <div className='p-4 bg-transparent flex flex-col md:flex-row'>
       <div className='shadow-thick md:shadow-none items-center p-4 md:max-w-[50%] rounded-2xl border-2 bg-lime-400 md:bg-white border-black hover:md:bg-lime-400 transition ease-in duration-300 md:h-auto group md:hover:shadow-thick '>
